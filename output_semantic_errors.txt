@@ -1,0 +1,3 @@
+Semantic error: Variable 'a' not declared.
+Semantic error: Variable 'b' not declared.
+Semantic error: Variable 'c' not declared.
